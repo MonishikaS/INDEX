@@ -30,8 +30,8 @@
 * Parts before 'e' = **Mantissa**
 * Parts after 'e' = **Exponent**
 * M&E should be deparated by e on E
-* M have +ve of -ve sign.
-* E have +ve of -ve sign.
+* M have +ve or -ve sign.
+* E have +ve or -ve sign.
 * Range = (-3.4e38) to (3.4e38)
 
 ### 3. Character Constants:-
