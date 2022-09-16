@@ -1,4 +1,5 @@
 # CHAPTER 1 Getting Started
+
 ## What is C?
 * Developed AT and I's Bell haboratories
 * 1972 by Dennis Ritchie.
@@ -13,7 +14,7 @@
 ### Primary - 
     Integer, Real, Character
 ### Secondary- 
-     Pointor, Array, String, Structure,Ilwian, Enum.
+     Pointer, Array, String, Structure,Ilwian, Enum.
      
 ## Rules for Constructing
 ### 1. Integer Constants.
@@ -64,11 +65,12 @@ break
 * Some compiler like Turbo C/C++ even permit us to return nathing from main ().So we use void 
 
 ## printf():-
-* To use printf() we need to use #include <stdio> which is a proprocess or directive
+* To use printf() we need to use #include <stdio> which is a proprocess or directive 
 Ex: printf ("%f", si);
 printf ("%d %f",p,n);
 printf ("S=%f", si);
 printf ("S=%d \n R=%f", s,r);
+
 * Here we used NEWLINE Character (\n)
   
 ## Editor:-
